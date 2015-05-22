@@ -1,6 +1,6 @@
 # Getting_and_Cleaning_Data
 
-The cleanup script (run_analysis.R) does the following:
+The script (run_analysis.R) does the following:
 
   Merges the training and the test sets to create one data set.
   Extracts only the measurements on the mean and standard deviation for each measurement.
